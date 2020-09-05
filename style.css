@@ -1,0 +1,17 @@
+.chart {
+    height: 400px;
+    width: 1200px;
+    border: 1px solid black;
+    display: flex;
+    align-items: flex-end;
+}
+
+.bar {
+    height: 0;
+    width: 2.5%;
+    background-color: coral;
+    border: 1px solid black;
+   
+    
+
+}
